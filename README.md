@@ -7,19 +7,18 @@ Hier sollten alle Krankenkassen aufgelistet werden die keine Homöopathie anbiet
 
 Wenn ihr die Krankenkasse wechselt teilt der Krankenkasse wo ihr vorher wart mit, wesswegen ihr Wechselt und der Krankenkasse wohin ihr wechselt auch. Denn nur so kann gezeigt werden das Homöopathie Kritiker eine Marktmacht besitzen. Ich empfehle alles Außer Telefon als Kommunikationsmittel da nach meiner Erfahrung (bei der Recherche) zu meist eine Person den Anruf entgegen nimmt die der Homöopathie eher positiv eingestellt ist und vileicht deswegen dies nicht weiter Kommunizieren könnte(Egal welche Krankenkasse).
 
-Weil viele Krankenkassen Ihre Beiträge erhöht haben ist es möglich bei diesen eine Sonderkündigung zu machen[11].
+Weil viele Krankenkassen Ihre Beiträge erhöht haben ist es möglich bei diesen eine Sonderkündigung zu machen[10].
 
 #### Aktuell bestätigt sind folgende Krankenkassen:<br/>
 
 Alle Bundesländer: <br/>
--Debeka BKK  [1][3][12] (9)<br/>
+-Debeka BKK  [1][3][11] (9)<br/>
 <br/>
 Baden-Württenberg: <br/>
 -Siemag BKK [2] (8) <br/>
 <br/>
 Bayern: <br/>
 -Siemag BKK [2] (8) <br/>
--BKK Akzo Nobel Bayern [2][8] (4) <br/>
 <br/>
 Berlin:<br/>
 -AOK Nordost (6)  [2] <br/>
@@ -72,7 +71,6 @@ Baden-Württenberg: <br/>
 -Siemag BKK [2]  (360 Euro bei Osteopathie Behandlung pro Jahr) <br/>
  <br/>
 Bayern:<br/>
--BKK Akzo Nobel Bayern [2] [8]  (4) (90 Euro bei Osteopathie Behandlung pro Jahr)  <br/>
 -Siemag BKK [2]  (360 Euro bei Osteopathie Behandlung pro Jahr) <br/>
 Brandenburg:<br/>
 -Siemag BKK [2] (360 Euro bei Osteopathie Behandlung pro Jahr) <br/>
@@ -120,13 +118,13 @@ Bremen:<br/>
 -BKK Melitta Plus (2) [2][6]  <br/>
 <br/>
 Hamburg: <br/>
--AOK Rheinland/Hamburg  [2][9] <br/>
+-AOK Rheinland/Hamburg  [2][8] <br/>
 <br/>
 Niedersachsen: <br/>
 -BKK Melitta Plus (2) [2][6]  <br/>
 <br/>
 Nordrhein: <br/>
--AOK Rheinland/Hamburg  [2][9] <br/>
+-AOK Rheinland/Hamburg  [2][8] <br/>
 -BKK Melitta Plus (2) [2][6]  <br/>
  <br/>
  Westfalen-Lippe: <br/>
@@ -144,10 +142,9 @@ Schleswig-Holstein: <br/>
 (1) Über ein Bonus Programm welches 180€ für Heilpraktiker Leistungen zur Verfügung stellt können Alternativmedizinische Behandlungen in Anspruch genommen werden wie z.B. Homöopathie [4] <br/>
 (2) Alternativ Medizin (inklusive Homöopathie) kann bis zu 100€ pro Kalenderjahr erstattet werden [6]. <br/>
 (3) Kinder und Schwangere können Homöopathische "Arzneimitteln" bis zu 80% max 25 € rückerstattet bekommen. In Ausnahme Fällen ist die Übernahme von Homöopathischen Mitteln vom Arzt möglich [7]. <br/>
-(4) Seit 2019  entfällt Arzneimittel der Homöopathie, Phytotherapie und Anthroposophie bis zu 100  [8]. <br/>
 (5) Nur von Ärzten mit einer homöopathischen Medizinischen Ausbildung [5] <br/>
 (6) Homöopathie nur für Kinder im Centrum für Gesundheit Berlin(diese Praxis ist seit Moanaten jedoch unbesetzt) [2]  <br/>
-(7) 80% bis 500 € " Voraussetzung ist, dass diese nicht verschreibungspflichtigen, apothekenpflichtigen Arzneimittel der Homöopathie, Phytotherapie und der Anthroposophie von einem Arzt per Privatrezept verschrieben wurden." [10] <br/>
+(7) 80% bis 500 € " Voraussetzung ist, dass diese nicht verschreibungspflichtigen, apothekenpflichtigen Arzneimittel der Homöopathie, Phytotherapie und der Anthroposophie von einem Arzt per Privatrezept verschrieben wurden." [9] <br/>
 (8) 360 Euro bei Osteopathie Behandlung pro Jahr <br/>
 (9) Übernahme von 90 % der Kosten für Homöopathie als privaten Ergänzungstarif für ambulante Leistungen<br/>
 (10) Nur eine wage Angabe zu Homöopathischen Leistungen
@@ -163,8 +160,7 @@ Schleswig-Holstein: <br/>
 [5]https://www.dak.de/dak/leistungen/homoeopathie-was-sie-wissen-sollten-2074970.html<br/>
 [6]https://www.bkk-melitta.de/leistungen-vorteile/leistungen-a-z/alternativangebote/naturmedizin/ <br/>
 [7]https://www.aok.de/pk/bayern/inhalt/alternative-heilmethoden-3/<br/>
-[8]https://bkk-akzo.de/?id=13&tx_kesearch_pi1%5Bsword%5D=hom%C3%B6opathie<br/>
-[9]https://www.aok.de/pk/rh/inhalt/alternative-heilmethoden-2/<br/>
-[10]https://www.aok.de/pk/nordwest/inhalt/alternative-heilmethoden/<br/>
-[11]https://www.test.de/Gesetzliche-Krankenversicherung-Alle-Infos-zum-Thema-Krankenkassen-1151006-1152052/
-[12]https://www.debeka.de/produkte/versichern/krankenversicherung/tarif_eaplus/details/index.html
+[8]https://www.aok.de/pk/rh/inhalt/alternative-heilmethoden-2/<br/>
+[9]https://www.aok.de/pk/nordwest/inhalt/alternative-heilmethoden/<br/>
+[10]https://www.test.de/Gesetzliche-Krankenversicherung-Alle-Infos-zum-Thema-Krankenkassen-1151006-1152052/
+[11]https://www.debeka.de/produkte/versichern/krankenversicherung/tarif_eaplus/details/index.html
